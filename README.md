@@ -1,0 +1,1 @@
+# openSAPGitCourse_prototype
